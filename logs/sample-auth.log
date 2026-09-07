@@ -1,0 +1,10 @@
+Aug 31 20:46:00 vbox sshd-session[7833]: Invalid user fakeuser from 10.0.2.15 port 45054
+Aug 31 20:46:41 vbox sshd-session[7833]: Failed password for invalid user fakeuser from 10.0.2.15 port 45054 ssh2
+Aug 31 20:46:50 vbox sshd-session[7833]: Failed password for invalid user fakeuser from 10.0.2.15 port 45054 ssh2
+Aug 31 20:46:58 vbox sshd-session[7833]: Failed password for invalid user fakeuser from 10.0.2.15 port 45054 ssh2
+Aug 31 20:46:59 vbox sshd-session[7833]: Connection closed by invalid user fakeuser 10.0.2.15 port 45054 [preauth]
+Aug 31 20:47:33 vbox sshd-session[8635]: Invalid user fakeuser from 10.0.2.15 port 43812
+Aug 31 20:47:41 vbox sshd-session[8635]: Failed password for invalid user fakeuser from 10.0.2.15 port 43812 ssh2
+Aug 31 20:47:51 vbox sshd-session[8635]: Failed password for invalid user fakeuser from 10.0.2.15 port 43812 ssh2
+Aug 31 20:48:04 vbox sshd-session[8635]: Failed password for invalid user fakeuser from 10.0.2.15 port 43812 ssh2
+Aug 31 20:48:05 vbox sshd-session[8635]: Connection closed by invalid user fakeuser 10.0.2.15 port 43812 [preauth]
