@@ -1,5 +1,7 @@
 # SOC SSH Brute-Force Investigation
 
+![SOC Investigation Workflow](screenshots/09-soc-investigation-workflow.png)
+
 ## Overview
 
 This project demonstrates a controlled Security Operations Center (SOC) investigation of SSH authentication activity in a Kali Linux virtual machine running in VirtualBox.
