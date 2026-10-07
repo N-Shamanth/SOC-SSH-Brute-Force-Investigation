@@ -189,9 +189,6 @@ Screenshots from the investigation are stored in the `screenshots` directory.
 
 ![IOC Extraction](screenshots/08-ioc-extraction.png)
 
-### SOC Investigation Workflow
-![SOC Investigation Workflow](screenshots/09-soc-investigation-workflow.png)
-
 ## Project Structure
 
     SOC-SSH-Brute-Force-Investigation/
