@@ -205,7 +205,8 @@ Screenshots from the investigation are stored in the `screenshots` directory.
         ├── 05-attack-analysis.png
         ├── 06-targeted-user.png
         ├── 07-authentication-outcome.png
-        └── 08-ioc-extraction.png
+        ├── 08-ioc-extraction.png
+        └── 09-soc-investigation-workflow.png
 
 ## Skills Demonstrated
 
